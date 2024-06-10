@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/interface_entry"
+        android:icon="@drawable/entry"
+        android:title="Entry" />
+    <item
+        android:id="@+id/interface_out"
+        android:icon="@drawable/out"
+        android:title="Out" />
+    <item
+        android:id="@+id/interface_1"
+        android:icon="@drawable/informe"
+        android:title="Reporte" />
+    <item
+        android:id="@+id/interface_2"
+        android:icon="@drawable/logout"
+        android:title="Cerrar sesión" />
+</menu>
